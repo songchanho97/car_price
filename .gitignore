@@ -1,0 +1,9 @@
+# 데이터셋 제외
+dataset/
+
+# Jupyter 관련 
+*.ipynb_checkpoints/
+3팀회귀_stacking.ipynb
+
+# pkl 파일
+mpg.pkl
